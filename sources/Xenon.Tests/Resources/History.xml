@@ -1,0 +1,1450 @@
+﻿<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.30.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Live Tour 2013: Time</title>
+    <ns>1</ns>
+    <id>42663462</id>
+    <redirect title="Talk:Time: Live Tour 2013" />
+    <revision>
+      <id>607051494</id>
+      <timestamp>2014-05-04T17:52:49Z</timestamp>
+      <contributor>
+        <username>Darkreason</username>
+        <id>7723865</id>
+      </contributor>
+      <comment>Darkreason moved page [[Talk:Live Tour 2013: Time]] to [[Talk:Time: Live Tour 2013]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Talk:Time: Live Tour 2013]]
+{{R from move}}</text>
+      <sha1>epkc7wqparrefwtziuc9qtrhgc2z43z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Invertzoo/Archive 77</title>
+    <ns>3</ns>
+    <id>42663463</id>
+    <revision>
+      <id>607051522</id>
+      <timestamp>2014-05-04T17:53:04Z</timestamp>
+      <contributor>
+        <username>Invertzoo</username>
+        <id>4863204</id>
+      </contributor>
+      <comment>start page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{talkarchive}}
+
+
+ARCHIVE PAGE 77: May 2014</text>
+      <sha1>cnuukw14muydafjz0men7whwlle9qje</sha1>
+    </revision>
+    <revision>
+      <id>607082459</id>
+      <parentid>607051522</parentid>
+      <timestamp>2014-05-04T22:08:10Z</timestamp>
+      <contributor>
+        <username>Invertzoo</username>
+        <id>4863204</id>
+      </contributor>
+      <comment>archiving messages</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{talkarchive}}
+
+
+ARCHIVE PAGE 77: May 2014
+==Disambiguation link notification for May 2==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[List of beaches in the San Diego area]], you added links pointing to the disambiguation pages [[Oceanside]] and [[Del Mar]] ([[tools:~dispenser/cgi-bin/dablinks.py/List_of_beaches_in_the_San_Diego_area|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/List_of_beaches_in_the_San_Diego_area|fix with Dab solver]]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:51, 2 May 2014 (UTC)
+== May 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=606695170 your edit] to [[List of beaches in the San Diego area]] may have broken the [[syntax]] by modifying 2 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:List of beaches in the San Diego area|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;**[[Mission Bay, San Diego, California|Mission Bay]] Beaches&lt;/nowiki&gt;{{red|'''&amp;#93;&amp;#93;'''}}&lt;nowiki&gt;&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, -2, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 22:46, 1 May 2014 (UTC)
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=607039320 your edit] to [[La Jolla Cove]] may have broken the [[syntax]] by modifying 1 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:La Jolla Cove|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;{{S-ttl|rows=1|title=&lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[[List of California beaches|California beaches]]|years=}}&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 1, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 16:11, 4 May 2014 (UTC)
+
+== Question about an image ==
+Good spot. I think that's [[Marina del Rey]], in which case it's sunset. I've renamed the file, so at least it's consistent now. &lt;font face=&quot;chiller&quot;&gt;&lt;font color=&quot;red&quot;&gt;&lt;b&gt;[[User:Jimfbleak|Jimfbleak]] - &lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;font color=&quot;green&quot;&gt;[[User talk:Jimfbleak| talk to me?]]&lt;/font&gt;&lt;/font&gt; 13:29, 4 May 2014 (UTC)
+
+:Thanks Jim, I could not really tell which way you were facing, but I figured that sunset was probably more likely than sunrise. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:35, 4 May 2014 (UTC)</text>
+      <sha1>hscmt2c58bd7px7d1z0xy5h1n8l2tdk</sha1>
+    </revision>
+    <revision>
+      <id>609806417</id>
+      <parentid>607082459</parentid>
+      <timestamp>2014-05-23T13:04:37Z</timestamp>
+      <contributor>
+        <username>Invertzoo</username>
+        <id>4863204</id>
+      </contributor>
+      <comment>archiving messages</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{talkarchive}}
+
+
+ARCHIVE PAGE 77: May 2014
+==Disambiguation link notification for May 2==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[List of beaches in the San Diego area]], you added links pointing to the disambiguation pages [[Oceanside]] and [[Del Mar]] ([[tools:~dispenser/cgi-bin/dablinks.py/List_of_beaches_in_the_San_Diego_area|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/List_of_beaches_in_the_San_Diego_area|fix with Dab solver]]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:51, 2 May 2014 (UTC)
+== May 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=606695170 your edit] to [[List of beaches in the San Diego area]] may have broken the [[syntax]] by modifying 2 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:List of beaches in the San Diego area|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;**[[Mission Bay, San Diego, California|Mission Bay]] Beaches&lt;/nowiki&gt;{{red|'''&amp;#93;&amp;#93;'''}}&lt;nowiki&gt;&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, -2, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 22:46, 1 May 2014 (UTC)
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=607039320 your edit] to [[La Jolla Cove]] may have broken the [[syntax]] by modifying 1 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:La Jolla Cove|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;{{S-ttl|rows=1|title=&lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[[List of California beaches|California beaches]]|years=}}&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 1, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 16:11, 4 May 2014 (UTC)
+
+== Question about an image ==
+Good spot. I think that's [[Marina del Rey]], in which case it's sunset. I've renamed the file, so at least it's consistent now. &lt;font face=&quot;chiller&quot;&gt;&lt;font color=&quot;red&quot;&gt;&lt;b&gt;[[User:Jimfbleak|Jimfbleak]] - &lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;font color=&quot;green&quot;&gt;[[User talk:Jimfbleak| talk to me?]]&lt;/font&gt;&lt;/font&gt; 13:29, 4 May 2014 (UTC)
+
+:Thanks Jim, I could not really tell which way you were facing, but I figured that sunset was probably more likely than sunrise. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:35, 4 May 2014 (UTC)
+
+== [https://en.wikipedia.org/wiki/User:Cwmhiraeth/A_draft_article Bivalve draft HERE], [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Species Octopus draft HERE], [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Family Flounder draft HERE] ==
+
+Three links for me to use. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 17:16, 4 May 2014 (UTC)
+
+== Continuing a conversation ==
+
+Although it is true that I do have a lot of other things that I am supposed to be working on IRL, I am trying to stay with this tutoring as much as I can, and as long as I can, because I think it is important. You are an unusually prolific contributor, and you are well-intentioned. If I can help you sort out some of these issues, I believe it would be very valuable to the encyclopedia in the long run. Please feel free to ask me anything you can think of that you may have wondered about in the past. Please be clear that I am not setting myself up as a great &quot;expert&quot; on Wikipedia policy, but I have done a lot of editing in article about invertebrates and biology in general and I also have to think carefully about attributing facts to other authors when I write my own papers for publication.
+
+I already found the article about the flounder because I looked at your edit history; I put a note on the talk page of that article. Although it is very tempting for me to simply go in and change anything that I think is inappropriate, what I am trying to do here is not simply fix your articles ''after'' you have written them, but to teach you how to avoid the problems in the first place. 
+
+I am glad that you feel that this tutoring process is actually being helpful to you. At the same time, I imagine it is going to be quite hard for you to change your approach to editing -- you must be so used to doing it all a certain way. It is much harder to &quot;unlearn and relearn&quot; an approach than it is to develop it the first time around. You are going to need to be very vigilant and mindful for a few months or however long it takes for the old habits to fade and the new ways of doing things to start to become automatic. Best wishes to you, [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 17:43, 4 May 2014 (UTC)
+:Do you think the ''Neotrigonia margaritacea'' article and the octopus are ready for mainspace or do you think they need more work?
+:Meanwhile, I have started writing an article about an amphipod [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here]. I have found and listed two useful sources and will try to use your techniques. Stopping now for the night and will continue tomorrow. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:41, 6 May 2014 (UTC)
+::I have moved the bivalve article into mainspace. I invited Epipelagic to inspect the flounder article but he does not seemed to have done so and nor does Cyclopia seem to have been back to the octopus article. Meanwhile, I have made a start on a new article on an amphipod [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here]. It's only a start and I am stopping for the night now and will do more tomorrow. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:46, 16 May 2014 (UTC)
+
+== New nudibranch articles ==
+
+Thanks for the thanks! Just a small point, is it right for me to quote a description exactly from an original description, as I do in ''[[Plocamopherus maculapodium]]'' - citing the source. The original paper also gives details of internal anatomy and radula plus more details. I'm trying to create a resource for getting a quick look at the species in each genus, plus hoping we will get an image for each. Rudman's Sea Slug Forum is no longer active and I think Wikipedia has a great role to play interfacing the people out there taking photographs (lots of them now) with the scientific papers plus accumulating knowledge of distributions. There are many undescribed species, Gosliner's team added about 91 last year alone. The taxobox structure provides such a neat navigation system. [[User:BernardP|BernardP]] ([[User talk:BernardP|talk]]) 20:40, 8 May 2014 (UTC)
+
+:Hello Bernard, thanks for asking that important question. The basic answer is no. I am not even vaguely an expert on copyright matters, but here is my 2 cents worth: at Wikipedia in the gastropods project we do sometimes quote some descriptions verbatim from some very old sources (sources that were published over 75 years ago in the US are OK I think under US copyright law), but we can't do that for a 2006 description, unless for some peculiar reason it is in the public domain. And even when it is allowable to quote something verbatim, you must put it in &quot;quote marks&quot; as well as giving it an inline citation.  Actually, come to think of it,  I believe small direct quotations are allowable from almost anywhere, but they can't be more than a line or two, not great chunks of text. Someone who really knows about copyright issues is User:Moonriddengirl -- you could ask her anything about copyright problems that you need to know. Best, [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 23:05, 8 May 2014 (UTC)
+
+=== Copyright - species descriptions===
+
+I've been on copyright classes and there is the clause of &quot;fair usage&quot;. It seems to me that part of a species description within a paper describing the species and several others might well come under that heading. Such descriptions are quite precise and it is really not sensible to be rewriting them if they are good and no new information is available, as in the cases where I've used them. Is there a way of tagging Moonriddengirl into this discussion? There is also the consideration of whether there is copyright in this case as the paper itself is freely available. [http://www.biodiversitylibrary.org/itemdetails/134578]. With some scientific journals moving to a free access model I suspect that such copying may be permissible. [[User:BernardP|BernardP]] ([[User talk:BernardP|talk]]) 07:32, 9 May 2014 (UTC)
+
+:Bernard, I have now copied this discussion onto [https://en.wikipedia.org/wiki/User_talk:Moonriddengirl#Copyright_on_species_descriptions.3F User:Moonriddengirl's talk page] and asked her for input. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:26, 9 May 2014 (UTC)
+
+==Disambiguation link notification for May 9==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that you've added some links pointing to [[Wikipedia:Disambiguation|disambiguation pages]]. Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+:[[San Elijo State Beach]] ([[tools:~dispenser/cgi-bin/dablinks.py/San_Elijo_State_Beach|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/San_Elijo_State_Beach|fix with Dab solver]])
+::added a link pointing to [[Pipes]]
+
+:[[The Official National Lampoon Car Stereo Test &amp; Demonstration Tape]] ([[tools:~dispenser/cgi-bin/dablinks.py/The_Official_National_Lampoon_Car_Stereo_Test_%26_Demonstration_Tape|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/The_Official_National_Lampoon_Car_Stereo_Test_%26_Demonstration_Tape|fix with Dab solver]])
+::added a link pointing to [[Whiplash]]
+
+:[[Tourmaline Surfing Park]] ([[tools:~dispenser/cgi-bin/dablinks.py/Tourmaline_Surfing_Park|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/Tourmaline_Surfing_Park|fix with Dab solver]])
+::added a link pointing to [[Pacific Beach]]
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:52, 9 May 2014 (UTC)
+
+== ''The Signpost'': 07 May 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-05-07}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 17--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 19:56, 9 May 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=607792187 --&gt;
+==Tunicates==
+There is an IP user, 129.62.69.239 and 129.62.228.222, who keeps changing the name of the subphylum of [[Tunicate]] in the taxobox from Tunicata to Urochordata (but not the rest of the text). Tunicata is the accepted name according to WoRMS with Urochordata being a junior synonym, and this is the reference I give in the taxobox. What to do next? [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 05:26, 10 May 2014 (UTC)
+
+:I assume the people at the IP addresses are using a textbook or some other source that is either a bit out of date or a bit too progressive, and that the source they are using has a different taxonomy. But [[WoRMS]] uses Tunicata, and that's good enough for me. I would leave a note to those IP addresses on the talk page of the article and of the IP addresses explaining that WoRMS is constantly updated and is staffed by some of the best taxonomists in the world, and they are currently using the taxon Tunicata; and that WP has to base its articles on the best available reliable sources, in this case that is WoRMS. Ask them not to persist in changing the taxon. With the IP addresses, if they are new, I would also put a &quot;welcome to Wikipedia&quot; template on their talk pages. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:03, 10 May 2014 (UTC)
+::In fact user Pbsouthwood has changed the page back to Tunicata, but I will do what you suggest anyway. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 18:33, 10 May 2014 (UTC)
+
+== [[Sea slug]] ==
+
+Greetings. If you intend to convert this into a disambiguation page, please fix all incoming links ''before'' making such a change. In my opinion, however, the concept of a &quot;sea slug&quot; is encyclopedic even if only to describe how unrelated species have historically come to be lumped together under this common name. Cheers! [[User:BD2412|&lt;font style=&quot;background:gold&quot;&gt;'''''bd2412'''''&lt;/font&gt;]] [[User talk:BD2412|'''T''']] 04:33, 14 May 2014 (UTC)
+
+:You are right that I should have changed all the links first -- I forgot that, never having done this particular kind of change-over before. Do you mind if I copy your note from here onto the talk page for the article? And in reply to what you suggest, unfortunately it is not really feasible to trace historically how all the various species came to be lumped under the common name &quot;Sea slug&quot;. That would require years of research in the older literature, and still one would be left with many questions. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:37, 14 May 2014 (UTC)
+:: Please feel free to copy my comment as needed. As to your concern about the feasbility of this article, I doubt that any article in Wikipedia comprehensively covers its subject. The bare outline here is the fact that there is a phrase, &quot;sea slug&quot;, which is generally understood to encompass a number of species that are not closely related, but have certain common physical characteristics. The lay reader might well think that &quot;sea slug&quot; is merely the common name of a species, so it may well be useful to have an explanation of why that is not the case, even if the explanation does not cover the history by which each species came to be known as a sea slug. [[User:BD2412|&lt;font style=&quot;background:gold&quot;&gt;'''''bd2412'''''&lt;/font&gt;]] [[User talk:BD2412|'''T''']] 14:17, 14 May 2014 (UTC)
+
+==Disambiguation link notification for May 16==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[Aglajidae]], you added a link pointing to the disambiguation page [[ICZN]] ([[tools:~dispenser/cgi-bin/dablinks.py/Aglajidae|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/Aglajidae|fix with Dab solver]]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:50, 16 May 2014 (UTC)
+
+==From above==
+I have moved the bivalve article into mainspace. I invited Epipelagic to inspect the flounder article but he does not seemed to have done so and nor does Cyclopia seem to have been back to the octopus article. Meanwhile, I have made a start on a new article on an amphipod [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here]. It's only a start and I am stopping for the night now and will do more tomorrow. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:46, 16 May 2014 (UTC)
+
+:I am sorry that so far the other two articles have not been double-checked by another editor. I guess it is probably worth waiting until you can find someone to check them; maybe you could ask on the talk page of the Fish and fisheries project about the flounder article. There is a cephalopod project, but I already asked there on April 29 with no result I guess. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 20:24, 16 May 2014 (UTC)
+
+::I propose moving the flounder and octopus articles into mainspace as there has been no response to my request for another reviewer for the flounder article. I have started the amphipod article [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here] if you would like to take a look at it. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:46, 20 May 2014 (UTC)
+
+:::OK if you can't get a response then I suppose you will have to move them into article space. I will have a closer look at the Amphipod article but not until Thursday, as I will be busy from now till then. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 20:03, 20 May 2014 (UTC)
+
+== ''The Signpost'': 14 May 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-05-14}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 18--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 20:44, 17 May 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=608914426 --&gt;</text>
+      <sha1>qxqrqrkxezan6hmkfexfpkv8m7j4o0z</sha1>
+    </revision>
+    <revision>
+      <id>610782955</id>
+      <parentid>609806417</parentid>
+      <timestamp>2014-05-30T12:28:47Z</timestamp>
+      <contributor>
+        <username>Invertzoo</username>
+        <id>4863204</id>
+      </contributor>
+      <comment>archiving messages</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{talkarchive}}
+
+
+ARCHIVE PAGE 77: May 2014
+==Disambiguation link notification for May 2==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[List of beaches in the San Diego area]], you added links pointing to the disambiguation pages [[Oceanside]] and [[Del Mar]] ([[tools:~dispenser/cgi-bin/dablinks.py/List_of_beaches_in_the_San_Diego_area|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/List_of_beaches_in_the_San_Diego_area|fix with Dab solver]]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:51, 2 May 2014 (UTC)
+== May 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=606695170 your edit] to [[List of beaches in the San Diego area]] may have broken the [[syntax]] by modifying 2 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:List of beaches in the San Diego area|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;**[[Mission Bay, San Diego, California|Mission Bay]] Beaches&lt;/nowiki&gt;{{red|'''&amp;#93;&amp;#93;'''}}&lt;nowiki&gt;&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, -2, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 22:46, 1 May 2014 (UTC)
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=607039320 your edit] to [[La Jolla Cove]] may have broken the [[syntax]] by modifying 1 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:La Jolla Cove|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;{{S-ttl|rows=1|title=&lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[[List of California beaches|California beaches]]|years=}}&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 1, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 16:11, 4 May 2014 (UTC)
+
+== Question about an image ==
+Good spot. I think that's [[Marina del Rey]], in which case it's sunset. I've renamed the file, so at least it's consistent now. &lt;font face=&quot;chiller&quot;&gt;&lt;font color=&quot;red&quot;&gt;&lt;b&gt;[[User:Jimfbleak|Jimfbleak]] - &lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;font color=&quot;green&quot;&gt;[[User talk:Jimfbleak| talk to me?]]&lt;/font&gt;&lt;/font&gt; 13:29, 4 May 2014 (UTC)
+
+:Thanks Jim, I could not really tell which way you were facing, but I figured that sunset was probably more likely than sunrise. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:35, 4 May 2014 (UTC)
+
+== [https://en.wikipedia.org/wiki/User:Cwmhiraeth/A_draft_article Bivalve draft HERE], [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Species Octopus draft HERE], [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Family Flounder draft HERE] ==
+
+Three links for me to use. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 17:16, 4 May 2014 (UTC)
+
+== Continuing a conversation ==
+
+Although it is true that I do have a lot of other things that I am supposed to be working on IRL, I am trying to stay with this tutoring as much as I can, and as long as I can, because I think it is important. You are an unusually prolific contributor, and you are well-intentioned. If I can help you sort out some of these issues, I believe it would be very valuable to the encyclopedia in the long run. Please feel free to ask me anything you can think of that you may have wondered about in the past. Please be clear that I am not setting myself up as a great &quot;expert&quot; on Wikipedia policy, but I have done a lot of editing in article about invertebrates and biology in general and I also have to think carefully about attributing facts to other authors when I write my own papers for publication.
+
+I already found the article about the flounder because I looked at your edit history; I put a note on the talk page of that article. Although it is very tempting for me to simply go in and change anything that I think is inappropriate, what I am trying to do here is not simply fix your articles ''after'' you have written them, but to teach you how to avoid the problems in the first place. 
+
+I am glad that you feel that this tutoring process is actually being helpful to you. At the same time, I imagine it is going to be quite hard for you to change your approach to editing -- you must be so used to doing it all a certain way. It is much harder to &quot;unlearn and relearn&quot; an approach than it is to develop it the first time around. You are going to need to be very vigilant and mindful for a few months or however long it takes for the old habits to fade and the new ways of doing things to start to become automatic. Best wishes to you, [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 17:43, 4 May 2014 (UTC)
+:Do you think the ''Neotrigonia margaritacea'' article and the octopus are ready for mainspace or do you think they need more work?
+:Meanwhile, I have started writing an article about an amphipod [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here]. I have found and listed two useful sources and will try to use your techniques. Stopping now for the night and will continue tomorrow. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:41, 6 May 2014 (UTC)
+::I have moved the bivalve article into mainspace. I invited Epipelagic to inspect the flounder article but he does not seemed to have done so and nor does Cyclopia seem to have been back to the octopus article. Meanwhile, I have made a start on a new article on an amphipod [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here]. It's only a start and I am stopping for the night now and will do more tomorrow. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:46, 16 May 2014 (UTC)
+
+== New nudibranch articles ==
+
+Thanks for the thanks! Just a small point, is it right for me to quote a description exactly from an original description, as I do in ''[[Plocamopherus maculapodium]]'' - citing the source. The original paper also gives details of internal anatomy and radula plus more details. I'm trying to create a resource for getting a quick look at the species in each genus, plus hoping we will get an image for each. Rudman's Sea Slug Forum is no longer active and I think Wikipedia has a great role to play interfacing the people out there taking photographs (lots of them now) with the scientific papers plus accumulating knowledge of distributions. There are many undescribed species, Gosliner's team added about 91 last year alone. The taxobox structure provides such a neat navigation system. [[User:BernardP|BernardP]] ([[User talk:BernardP|talk]]) 20:40, 8 May 2014 (UTC)
+
+:Hello Bernard, thanks for asking that important question. The basic answer is no. I am not even vaguely an expert on copyright matters, but here is my 2 cents worth: at Wikipedia in the gastropods project we do sometimes quote some descriptions verbatim from some very old sources (sources that were published over 75 years ago in the US are OK I think under US copyright law), but we can't do that for a 2006 description, unless for some peculiar reason it is in the public domain. And even when it is allowable to quote something verbatim, you must put it in &quot;quote marks&quot; as well as giving it an inline citation.  Actually, come to think of it,  I believe small direct quotations are allowable from almost anywhere, but they can't be more than a line or two, not great chunks of text. Someone who really knows about copyright issues is User:Moonriddengirl -- you could ask her anything about copyright problems that you need to know. Best, [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 23:05, 8 May 2014 (UTC)
+
+=== Copyright - species descriptions===
+
+I've been on copyright classes and there is the clause of &quot;fair usage&quot;. It seems to me that part of a species description within a paper describing the species and several others might well come under that heading. Such descriptions are quite precise and it is really not sensible to be rewriting them if they are good and no new information is available, as in the cases where I've used them. Is there a way of tagging Moonriddengirl into this discussion? There is also the consideration of whether there is copyright in this case as the paper itself is freely available. [http://www.biodiversitylibrary.org/itemdetails/134578]. With some scientific journals moving to a free access model I suspect that such copying may be permissible. [[User:BernardP|BernardP]] ([[User talk:BernardP|talk]]) 07:32, 9 May 2014 (UTC)
+
+:Bernard, I have now copied this discussion onto [https://en.wikipedia.org/wiki/User_talk:Moonriddengirl#Copyright_on_species_descriptions.3F User:Moonriddengirl's talk page] and asked her for input. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:26, 9 May 2014 (UTC)
+
+==Disambiguation link notification for May 9==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that you've added some links pointing to [[Wikipedia:Disambiguation|disambiguation pages]]. Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+:[[San Elijo State Beach]] ([[tools:~dispenser/cgi-bin/dablinks.py/San_Elijo_State_Beach|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/San_Elijo_State_Beach|fix with Dab solver]])
+::added a link pointing to [[Pipes]]
+
+:[[The Official National Lampoon Car Stereo Test &amp; Demonstration Tape]] ([[tools:~dispenser/cgi-bin/dablinks.py/The_Official_National_Lampoon_Car_Stereo_Test_%26_Demonstration_Tape|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/The_Official_National_Lampoon_Car_Stereo_Test_%26_Demonstration_Tape|fix with Dab solver]])
+::added a link pointing to [[Whiplash]]
+
+:[[Tourmaline Surfing Park]] ([[tools:~dispenser/cgi-bin/dablinks.py/Tourmaline_Surfing_Park|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/Tourmaline_Surfing_Park|fix with Dab solver]])
+::added a link pointing to [[Pacific Beach]]
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:52, 9 May 2014 (UTC)
+
+== ''The Signpost'': 07 May 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-05-07}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 17--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 19:56, 9 May 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=607792187 --&gt;
+==Tunicates==
+There is an IP user, 129.62.69.239 and 129.62.228.222, who keeps changing the name of the subphylum of [[Tunicate]] in the taxobox from Tunicata to Urochordata (but not the rest of the text). Tunicata is the accepted name according to WoRMS with Urochordata being a junior synonym, and this is the reference I give in the taxobox. What to do next? [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 05:26, 10 May 2014 (UTC)
+
+:I assume the people at the IP addresses are using a textbook or some other source that is either a bit out of date or a bit too progressive, and that the source they are using has a different taxonomy. But [[WoRMS]] uses Tunicata, and that's good enough for me. I would leave a note to those IP addresses on the talk page of the article and of the IP addresses explaining that WoRMS is constantly updated and is staffed by some of the best taxonomists in the world, and they are currently using the taxon Tunicata; and that WP has to base its articles on the best available reliable sources, in this case that is WoRMS. Ask them not to persist in changing the taxon. With the IP addresses, if they are new, I would also put a &quot;welcome to Wikipedia&quot; template on their talk pages. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:03, 10 May 2014 (UTC)
+::In fact user Pbsouthwood has changed the page back to Tunicata, but I will do what you suggest anyway. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 18:33, 10 May 2014 (UTC)
+
+== [[Sea slug]] ==
+
+Greetings. If you intend to convert this into a disambiguation page, please fix all incoming links ''before'' making such a change. In my opinion, however, the concept of a &quot;sea slug&quot; is encyclopedic even if only to describe how unrelated species have historically come to be lumped together under this common name. Cheers! [[User:BD2412|&lt;font style=&quot;background:gold&quot;&gt;'''''bd2412'''''&lt;/font&gt;]] [[User talk:BD2412|'''T''']] 04:33, 14 May 2014 (UTC)
+
+:You are right that I should have changed all the links first -- I forgot that, never having done this particular kind of change-over before. Do you mind if I copy your note from here onto the talk page for the article? And in reply to what you suggest, unfortunately it is not really feasible to trace historically how all the various species came to be lumped under the common name &quot;Sea slug&quot;. That would require years of research in the older literature, and still one would be left with many questions. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:37, 14 May 2014 (UTC)
+:: Please feel free to copy my comment as needed. As to your concern about the feasbility of this article, I doubt that any article in Wikipedia comprehensively covers its subject. The bare outline here is the fact that there is a phrase, &quot;sea slug&quot;, which is generally understood to encompass a number of species that are not closely related, but have certain common physical characteristics. The lay reader might well think that &quot;sea slug&quot; is merely the common name of a species, so it may well be useful to have an explanation of why that is not the case, even if the explanation does not cover the history by which each species came to be known as a sea slug. [[User:BD2412|&lt;font style=&quot;background:gold&quot;&gt;'''''bd2412'''''&lt;/font&gt;]] [[User talk:BD2412|'''T''']] 14:17, 14 May 2014 (UTC)
+
+==Disambiguation link notification for May 16==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[Aglajidae]], you added a link pointing to the disambiguation page [[ICZN]] ([[tools:~dispenser/cgi-bin/dablinks.py/Aglajidae|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/Aglajidae|fix with Dab solver]]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:50, 16 May 2014 (UTC)
+
+==From above==
+I have moved the bivalve article into mainspace. I invited Epipelagic to inspect the flounder article but he does not seemed to have done so and nor does Cyclopia seem to have been back to the octopus article. Meanwhile, I have made a start on a new article on an amphipod [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here]. It's only a start and I am stopping for the night now and will do more tomorrow. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:46, 16 May 2014 (UTC)
+
+:I am sorry that so far the other two articles have not been double-checked by another editor. I guess it is probably worth waiting until you can find someone to check them; maybe you could ask on the talk page of the Fish and fisheries project about the flounder article. There is a cephalopod project, but I already asked there on April 29 with no result I guess. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 20:24, 16 May 2014 (UTC)
+
+::I propose moving the flounder and octopus articles into mainspace as there has been no response to my request for another reviewer for the flounder article. I have started the amphipod article [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here] if you would like to take a look at it. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:46, 20 May 2014 (UTC)
+
+:::OK if you can't get a response then I suppose you will have to move them into article space. I will have a closer look at the Amphipod article but not until Thursday, as I will be busy from now till then. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 20:03, 20 May 2014 (UTC)
+
+== ''The Signpost'': 14 May 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-05-14}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 18--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 20:44, 17 May 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=608914426 --&gt;
+== ''The Signpost'': 21 May 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-05-21}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 19--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 01:03, 24 May 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=609734728 --&gt;
+
+==An untitled note about [[Undertow]]==
+Hello,
+
+I disagree with an important part of the &quot;undertow&quot; article you wrote on wkpd.
+You stated that undertow is an old-fashionable way to name rip currents, and so it doesn't refer itself to a physical process.
+This is not true. Rips and undertow are two distinct processes.
+The word undertow employed in physical oceanography/coeastal processes refers to a steady, 2-D offshore-directed compensation flow.
+Physically, in the surf zone, passing the breaking point toward the shore, depth-varying Stokes momentum flux is onshore-directed. This mass transport is localised in the upper part of the water column, i.e., wave crest. To compensate the amount of water being transported to the shore this way (and leading to wave set-up and resulting depth-unifrom pressure gradient), a second-order, offhsore-directed mean current takes place in the lower section of the water column. This flow affect the whole surf zone (and even the shoreface, see Lenz etal., 2008), unlike rip currents.  This current is referred as &quot;undertow&quot;. This word is still in application in scientific coastal oceanography papers and community, like Haines and Sallenger 1994; Garcez Faria et al. 2000; Reniers et al. 2004, amongst many others. This flow is extremely important in coastal sciences since its existence, as well as its onshore directed counterpart outside the surf zone (stokes drift and skewed-asymmetric wave transport) because those antagonistic flows leads to longshore bars formation where they converge (the breaking point/zone). 
+
+Rip currents are compensation currents too, but mostly linked to surf zone and beachface bathymetry allowing gradients in mean surface elevation within the surf zone linked to non breaking vs. breaking waves patterns. Rip currents are localised 3D feature in which a pulsatile flow affect the whole water column. 
+
+Please make a better litterature review and update your undertow paper in the right way.
+
+ref. cited:
+Garcez Faria, A. F., E. B. Thornton, T. C. Lippman, and T. P. Stanton, 2000: Undertow over a barred beach. Journal of Geophysical Research, 105, 16 999–17 010.
+Haines, J. W., and A. H. Sallenger, Jr., 1994: Vertical structure of mean cross-shore currents across a barred surf zone. Journal of Geophysical Research, 99, 14 223–14 242.
+Lentz, Steven J., Melanie Fewings, Peter Howd, Janet Fredericks, Kent Hathaway, 2008: Observations and a Model of Undertow over the Inner Continental Shelf. J. Phys. Oceanogr., 38, 2341–2357.
+Reniers, A. J. H. M., E. B. Thornton, T. P. Stanton, and J. A. Roelvink, 2004: Vertical flow structure during Sandy Duck: Observations and modeling. Journal of Coastal Engineering., 51, 237–260.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Derieter|Derieter]] ([[User talk:Derieter|talk]] • [[Special:Contributions/Derieter|contribs]]) 20:16, 26 May 2014 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Cool! Thank you so much for helping out! Let me get back to you about this on your talk page within a few days. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 23:13, 26 May 2014 (UTC)</text>
+      <sha1>tja5andouc5duhcqf90485tsspqpf5h</sha1>
+    </revision>
+    <revision>
+      <id>615708849</id>
+      <parentid>610782955</parentid>
+      <timestamp>2014-07-05T15:57:00Z</timestamp>
+      <contributor>
+        <username>Invertzoo</username>
+        <id>4863204</id>
+      </contributor>
+      <comment>add more messages to this archive</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{talkarchive}}
+
+
+ARCHIVE PAGE 77: May 2014
+==Disambiguation link notification for May 2==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[List of beaches in the San Diego area]], you added links pointing to the disambiguation pages [[Oceanside]] and [[Del Mar]] ([[tools:~dispenser/cgi-bin/dablinks.py/List_of_beaches_in_the_San_Diego_area|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/List_of_beaches_in_the_San_Diego_area|fix with Dab solver]]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:51, 2 May 2014 (UTC)
+== May 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=606695170 your edit] to [[List of beaches in the San Diego area]] may have broken the [[syntax]] by modifying 2 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:List of beaches in the San Diego area|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;**[[Mission Bay, San Diego, California|Mission Bay]] Beaches&lt;/nowiki&gt;{{red|'''&amp;#93;&amp;#93;'''}}&lt;nowiki&gt;&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, -2, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 22:46, 1 May 2014 (UTC)
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=607039320 your edit] to [[La Jolla Cove]] may have broken the [[syntax]] by modifying 1 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:La Jolla Cove|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;{{S-ttl|rows=1|title=&lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[[List of California beaches|California beaches]]|years=}}&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 1, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 16:11, 4 May 2014 (UTC)
+
+== Question about an image ==
+Good spot. I think that's [[Marina del Rey]], in which case it's sunset. I've renamed the file, so at least it's consistent now. &lt;font face=&quot;chiller&quot;&gt;&lt;font color=&quot;red&quot;&gt;&lt;b&gt;[[User:Jimfbleak|Jimfbleak]] - &lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;font color=&quot;green&quot;&gt;[[User talk:Jimfbleak| talk to me?]]&lt;/font&gt;&lt;/font&gt; 13:29, 4 May 2014 (UTC)
+
+:Thanks Jim, I could not really tell which way you were facing, but I figured that sunset was probably more likely than sunrise. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:35, 4 May 2014 (UTC)
+
+== [https://en.wikipedia.org/wiki/User:Cwmhiraeth/A_draft_article Bivalve draft HERE], [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Species Octopus draft HERE], [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Family Flounder draft HERE] ==
+
+Three links for me to use. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 17:16, 4 May 2014 (UTC)
+
+== Continuing a conversation ==
+
+Although it is true that I do have a lot of other things that I am supposed to be working on IRL, I am trying to stay with this tutoring as much as I can, and as long as I can, because I think it is important. You are an unusually prolific contributor, and you are well-intentioned. If I can help you sort out some of these issues, I believe it would be very valuable to the encyclopedia in the long run. Please feel free to ask me anything you can think of that you may have wondered about in the past. Please be clear that I am not setting myself up as a great &quot;expert&quot; on Wikipedia policy, but I have done a lot of editing in article about invertebrates and biology in general and I also have to think carefully about attributing facts to other authors when I write my own papers for publication.
+
+I already found the article about the flounder because I looked at your edit history; I put a note on the talk page of that article. Although it is very tempting for me to simply go in and change anything that I think is inappropriate, what I am trying to do here is not simply fix your articles ''after'' you have written them, but to teach you how to avoid the problems in the first place. 
+
+I am glad that you feel that this tutoring process is actually being helpful to you. At the same time, I imagine it is going to be quite hard for you to change your approach to editing -- you must be so used to doing it all a certain way. It is much harder to &quot;unlearn and relearn&quot; an approach than it is to develop it the first time around. You are going to need to be very vigilant and mindful for a few months or however long it takes for the old habits to fade and the new ways of doing things to start to become automatic. Best wishes to you, [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 17:43, 4 May 2014 (UTC)
+:Do you think the ''Neotrigonia margaritacea'' article and the octopus are ready for mainspace or do you think they need more work?
+:Meanwhile, I have started writing an article about an amphipod [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here]. I have found and listed two useful sources and will try to use your techniques. Stopping now for the night and will continue tomorrow. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:41, 6 May 2014 (UTC)
+::I have moved the bivalve article into mainspace. I invited Epipelagic to inspect the flounder article but he does not seemed to have done so and nor does Cyclopia seem to have been back to the octopus article. Meanwhile, I have made a start on a new article on an amphipod [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here]. It's only a start and I am stopping for the night now and will do more tomorrow. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:46, 16 May 2014 (UTC)
+
+== New nudibranch articles ==
+
+Thanks for the thanks! Just a small point, is it right for me to quote a description exactly from an original description, as I do in ''[[Plocamopherus maculapodium]]'' - citing the source. The original paper also gives details of internal anatomy and radula plus more details. I'm trying to create a resource for getting a quick look at the species in each genus, plus hoping we will get an image for each. Rudman's Sea Slug Forum is no longer active and I think Wikipedia has a great role to play interfacing the people out there taking photographs (lots of them now) with the scientific papers plus accumulating knowledge of distributions. There are many undescribed species, Gosliner's team added about 91 last year alone. The taxobox structure provides such a neat navigation system. [[User:BernardP|BernardP]] ([[User talk:BernardP|talk]]) 20:40, 8 May 2014 (UTC)
+
+:Hello Bernard, thanks for asking that important question. The basic answer is no. I am not even vaguely an expert on copyright matters, but here is my 2 cents worth: at Wikipedia in the gastropods project we do sometimes quote some descriptions verbatim from some very old sources (sources that were published over 75 years ago in the US are OK I think under US copyright law), but we can't do that for a 2006 description, unless for some peculiar reason it is in the public domain. And even when it is allowable to quote something verbatim, you must put it in &quot;quote marks&quot; as well as giving it an inline citation.  Actually, come to think of it,  I believe small direct quotations are allowable from almost anywhere, but they can't be more than a line or two, not great chunks of text. Someone who really knows about copyright issues is User:Moonriddengirl -- you could ask her anything about copyright problems that you need to know. Best, [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 23:05, 8 May 2014 (UTC)
+
+=== Copyright - species descriptions===
+
+I've been on copyright classes and there is the clause of &quot;fair usage&quot;. It seems to me that part of a species description within a paper describing the species and several others might well come under that heading. Such descriptions are quite precise and it is really not sensible to be rewriting them if they are good and no new information is available, as in the cases where I've used them. Is there a way of tagging Moonriddengirl into this discussion? There is also the consideration of whether there is copyright in this case as the paper itself is freely available. [http://www.biodiversitylibrary.org/itemdetails/134578]. With some scientific journals moving to a free access model I suspect that such copying may be permissible. [[User:BernardP|BernardP]] ([[User talk:BernardP|talk]]) 07:32, 9 May 2014 (UTC)
+
+:Bernard, I have now copied this discussion onto [https://en.wikipedia.org/wiki/User_talk:Moonriddengirl#Copyright_on_species_descriptions.3F User:Moonriddengirl's talk page] and asked her for input. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:26, 9 May 2014 (UTC)
+
+==Disambiguation link notification for May 9==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that you've added some links pointing to [[Wikipedia:Disambiguation|disambiguation pages]]. Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+:[[San Elijo State Beach]] ([[tools:~dispenser/cgi-bin/dablinks.py/San_Elijo_State_Beach|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/San_Elijo_State_Beach|fix with Dab solver]])
+::added a link pointing to [[Pipes]]
+
+:[[The Official National Lampoon Car Stereo Test &amp; Demonstration Tape]] ([[tools:~dispenser/cgi-bin/dablinks.py/The_Official_National_Lampoon_Car_Stereo_Test_%26_Demonstration_Tape|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/The_Official_National_Lampoon_Car_Stereo_Test_%26_Demonstration_Tape|fix with Dab solver]])
+::added a link pointing to [[Whiplash]]
+
+:[[Tourmaline Surfing Park]] ([[tools:~dispenser/cgi-bin/dablinks.py/Tourmaline_Surfing_Park|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/Tourmaline_Surfing_Park|fix with Dab solver]])
+::added a link pointing to [[Pacific Beach]]
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:52, 9 May 2014 (UTC)
+
+== ''The Signpost'': 07 May 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-05-07}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 17--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 19:56, 9 May 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=607792187 --&gt;
+==Tunicates==
+There is an IP user, 129.62.69.239 and 129.62.228.222, who keeps changing the name of the subphylum of [[Tunicate]] in the taxobox from Tunicata to Urochordata (but not the rest of the text). Tunicata is the accepted name according to WoRMS with Urochordata being a junior synonym, and this is the reference I give in the taxobox. What to do next? [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 05:26, 10 May 2014 (UTC)
+
+:I assume the people at the IP addresses are using a textbook or some other source that is either a bit out of date or a bit too progressive, and that the source they are using has a different taxonomy. But [[WoRMS]] uses Tunicata, and that's good enough for me. I would leave a note to those IP addresses on the talk page of the article and of the IP addresses explaining that WoRMS is constantly updated and is staffed by some of the best taxonomists in the world, and they are currently using the taxon Tunicata; and that WP has to base its articles on the best available reliable sources, in this case that is WoRMS. Ask them not to persist in changing the taxon. With the IP addresses, if they are new, I would also put a &quot;welcome to Wikipedia&quot; template on their talk pages. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:03, 10 May 2014 (UTC)
+::In fact user Pbsouthwood has changed the page back to Tunicata, but I will do what you suggest anyway. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 18:33, 10 May 2014 (UTC)
+
+== [[Sea slug]] ==
+
+Greetings. If you intend to convert this into a disambiguation page, please fix all incoming links ''before'' making such a change. In my opinion, however, the concept of a &quot;sea slug&quot; is encyclopedic even if only to describe how unrelated species have historically come to be lumped together under this common name. Cheers! [[User:BD2412|&lt;font style=&quot;background:gold&quot;&gt;'''''bd2412'''''&lt;/font&gt;]] [[User talk:BD2412|'''T''']] 04:33, 14 May 2014 (UTC)
+
+:You are right that I should have changed all the links first -- I forgot that, never having done this particular kind of change-over before. Do you mind if I copy your note from here onto the talk page for the article? And in reply to what you suggest, unfortunately it is not really feasible to trace historically how all the various species came to be lumped under the common name &quot;Sea slug&quot;. That would require years of research in the older literature, and still one would be left with many questions. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 13:37, 14 May 2014 (UTC)
+:: Please feel free to copy my comment as needed. As to your concern about the feasbility of this article, I doubt that any article in Wikipedia comprehensively covers its subject. The bare outline here is the fact that there is a phrase, &quot;sea slug&quot;, which is generally understood to encompass a number of species that are not closely related, but have certain common physical characteristics. The lay reader might well think that &quot;sea slug&quot; is merely the common name of a species, so it may well be useful to have an explanation of why that is not the case, even if the explanation does not cover the history by which each species came to be known as a sea slug. [[User:BD2412|&lt;font style=&quot;background:gold&quot;&gt;'''''bd2412'''''&lt;/font&gt;]] [[User talk:BD2412|'''T''']] 14:17, 14 May 2014 (UTC)
+
+==Disambiguation link notification for May 16==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[Aglajidae]], you added a link pointing to the disambiguation page [[ICZN]] ([[tools:~dispenser/cgi-bin/dablinks.py/Aglajidae|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/Aglajidae|fix with Dab solver]]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:50, 16 May 2014 (UTC)
+
+==From above==
+I have moved the bivalve article into mainspace. I invited Epipelagic to inspect the flounder article but he does not seemed to have done so and nor does Cyclopia seem to have been back to the octopus article. Meanwhile, I have made a start on a new article on an amphipod [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here]. It's only a start and I am stopping for the night now and will do more tomorrow. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:46, 16 May 2014 (UTC)
+
+:I am sorry that so far the other two articles have not been double-checked by another editor. I guess it is probably worth waiting until you can find someone to check them; maybe you could ask on the talk page of the Fish and fisheries project about the flounder article. There is a cephalopod project, but I already asked there on April 29 with no result I guess. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 20:24, 16 May 2014 (UTC)
+
+::I propose moving the flounder and octopus articles into mainspace as there has been no response to my request for another reviewer for the flounder article. I have started the amphipod article [https://en.wikipedia.org/wiki/User:Cwmhiraeth/Free_parking here] if you would like to take a look at it. [[User:Cwmhiraeth|Cwmhiraeth]] ([[User talk:Cwmhiraeth|talk]]) 19:46, 20 May 2014 (UTC)
+
+:::OK if you can't get a response then I suppose you will have to move them into article space. I will have a closer look at the Amphipod article but not until Thursday, as I will be busy from now till then. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 20:03, 20 May 2014 (UTC)
+
+== ''The Signpost'': 14 May 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-05-14}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 18--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 20:44, 17 May 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=608914426 --&gt;
+== ''The Signpost'': 21 May 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-05-21}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 19--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 01:03, 24 May 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=609734728 --&gt;
+
+==An untitled note about [[Undertow]]==
+Hello,
+
+I disagree with an important part of the &quot;undertow&quot; article you wrote on wkpd.
+You stated that undertow is an old-fashionable way to name rip currents, and so it doesn't refer itself to a physical process.
+This is not true. Rips and undertow are two distinct processes.
+The word undertow employed in physical oceanography/coeastal processes refers to a steady, 2-D offshore-directed compensation flow.
+Physically, in the surf zone, passing the breaking point toward the shore, depth-varying Stokes momentum flux is onshore-directed. This mass transport is localised in the upper part of the water column, i.e., wave crest. To compensate the amount of water being transported to the shore this way (and leading to wave set-up and resulting depth-unifrom pressure gradient), a second-order, offhsore-directed mean current takes place in the lower section of the water column. This flow affect the whole surf zone (and even the shoreface, see Lenz etal., 2008), unlike rip currents.  This current is referred as &quot;undertow&quot;. This word is still in application in scientific coastal oceanography papers and community, like Haines and Sallenger 1994; Garcez Faria et al. 2000; Reniers et al. 2004, amongst many others. This flow is extremely important in coastal sciences since its existence, as well as its onshore directed counterpart outside the surf zone (stokes drift and skewed-asymmetric wave transport) because those antagonistic flows leads to longshore bars formation where they converge (the breaking point/zone). 
+
+Rip currents are compensation currents too, but mostly linked to surf zone and beachface bathymetry allowing gradients in mean surface elevation within the surf zone linked to non breaking vs. breaking waves patterns. Rip currents are localised 3D feature in which a pulsatile flow affect the whole water column. 
+
+Please make a better litterature review and update your undertow paper in the right way.
+
+ref. cited:
+Garcez Faria, A. F., E. B. Thornton, T. C. Lippman, and T. P. Stanton, 2000: Undertow over a barred beach. Journal of Geophysical Research, 105, 16 999–17 010.
+Haines, J. W., and A. H. Sallenger, Jr., 1994: Vertical structure of mean cross-shore currents across a barred surf zone. Journal of Geophysical Research, 99, 14 223–14 242.
+Lentz, Steven J., Melanie Fewings, Peter Howd, Janet Fredericks, Kent Hathaway, 2008: Observations and a Model of Undertow over the Inner Continental Shelf. J. Phys. Oceanogr., 38, 2341–2357.
+Reniers, A. J. H. M., E. B. Thornton, T. P. Stanton, and J. A. Roelvink, 2004: Vertical flow structure during Sandy Duck: Observations and modeling. Journal of Coastal Engineering., 51, 237–260.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Derieter|Derieter]] ([[User talk:Derieter|talk]] • [[Special:Contributions/Derieter|contribs]]) 20:16, 26 May 2014 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Cool! Thank you so much for helping out! Let me get back to you about this on your talk page within a few days. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 23:13, 26 May 2014 (UTC)
+
+
+== Convention ==
+
+Hello there. Which would you say is right or conventional or does it matter?
+
+*'''Slimellidae''' is a [[taxonomic]] [[family (biology)|family]] of...
+
+*The '''Slimellidae''' are a [[taxonomic]] [[family (biology)|family]] of...
+
+Best, [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 21:43, 26 May 2014 (UTC)
+
+:Hi Anna,
+
+:I could be wrong but I think you can express it either way. The Latin ending -dae would indicate a plural noun, but people often refer to a family as a singular unit too, at least in my experience. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 23:06, 26 May 2014 (UTC)
+
+::Hi Susan,
+
+::Fair enough. That makes sense. Thank you kindly. :) [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 01:06, 27 May 2014 (UTC)
+
+==''[[Protulophila]]'', a living fossil==
+Hi Invertzoo, long time since I communicated with you.
+
+I've just created a stub about ''[[Protulophila]]'' which is hitting the headlines in New Zealand this morning as a &quot;living fossil&quot;. I'm not even quite sure what it is as we have a number of links to it suggesting at various times it has been considered an annelid, a medusozoan or a mollusc. [http://fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=4629 fossilworks] says its a [[Hydrozoa]]n, but also puts it in the obsolete group [[Hydroida]]. Any chance you could expand the stub a little or mention it to a Wikipedia editor with an interest in such beasties?-&lt;span style=&quot;font-family:cursive; color:grey;&quot;&gt;[[User talk:gadfium|gadfium]]&lt;/span&gt; 20:13, 29 May 2014 (UTC)
+:Nice to see you again Gadfium! I quickly fixed the article up a little bit, but I don't have much time right now. I will try to get back to it in a day or two. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo#top|talk]]) 21:02, 29 May 2014 (UTC)
+::Thank you, that's an outstanding job!-&lt;span style=&quot;font-family:cursive; color:grey;&quot;&gt;[[User talk:gadfium|gadfium]]&lt;/span&gt; 22:42, 29 May 2014 (UTC)
+
+==Disambiguation link notification for May 30==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that you've added some links pointing to [[Wikipedia:Disambiguation|disambiguation pages]]. Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+:[[Janolus cristatus]] ([[tools:~dispenser/cgi-bin/dablinks.py/Janolus_cristatus|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/Janolus_cristatus|fix with Dab solver]])
+::added a link pointing to [[Caruncle]]
+
+:[[Paeonia suffruticosa]] ([[tools:~dispenser/cgi-bin/dablinks.py/Paeonia_suffruticosa|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/Paeonia_suffruticosa|fix with Dab solver]])
+::added a link pointing to [[Water lily]]
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:52, 30 May 2014 (UTC)
+
+== ''The Signpost'': 28 May 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-05-28}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 20--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 12:52, 1 June 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=611049521 --&gt;</text>
+      <sha1>56uvf8wpkdavvfptpp6u6r24j7ucsnw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Libbre David</title>
+    <ns>0</ns>
+    <id>42663464</id>
+    <redirect title="Talmud" />
+    <revision>
+      <id>607051549</id>
+      <timestamp>2014-05-04T17:53:16Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <comment>created page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014}} 
+
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]</text>
+      <sha1>e4kxhelen3c0ti4slm7asgcldoqsfes</sha1>
+    </revision>
+    <revision>
+      <id>607053970</id>
+      <parentid>607051549</parentid>
+      <timestamp>2014-05-04T18:11:05Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <comment>+[[Category:Talmud concepts and terminology]]; +[[Category:Antisemitic canards]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014}} 
+
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+&lt;!-- [[Category:Talmud concepts and terminology]]
+[[Category:Antisemitic canards]]
+ --&gt;</text>
+      <sha1>qyadjzxrzfsjso8q3qvgq42iosgrczh</sha1>
+    </revision>
+    <revision>
+      <id>607057294</id>
+      <parentid>607053970</parentid>
+      <timestamp>2014-05-04T18:37:54Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <minor />
+      <comment>/* top */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+&lt;!-- [[Category:Talmud concepts and terminology]]
+[[Category:Antisemitic canards]]
+ --&gt;</text>
+      <sha1>hhq1w89v0lcnf7y3l9e9pv2q4k14zb5</sha1>
+    </revision>
+    <revision>
+      <id>607057676</id>
+      <parentid>607057294</parentid>
+      <timestamp>2014-05-04T18:40:55Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <comment>/* top */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+&lt;!-- [[Category:Talmud concepts and terminology]]
+[[Category:Antisemitic canards]]
+ --&gt;</text>
+      <sha1>fwdq1y2oimssqcj0ugomoslvy0xby1e</sha1>
+    </revision>
+    <revision>
+      <id>607064502</id>
+      <parentid>607057676</parentid>
+      <timestamp>2014-05-04T19:39:15Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <comment>/* Factuality */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=ISRAEL and the NEW WORLD ORDER|author=Andrew J. Hurley|publisher=Fithian Press|pocation=Foundation for a New World Order, Santa Barbara, |year-1991}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+&lt;!-- [[Category:Talmud concepts and terminology]]
+[[Category:Antisemitic canards]]
+ --&gt;</text>
+      <sha1>l23uvo84ie3c92g21xtqq1oyufvzl4q</sha1>
+    </revision>
+    <revision>
+      <id>607064697</id>
+      <parentid>607064502</parentid>
+      <timestamp>2014-05-04T19:40:56Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <minor />
+      <comment>/* Origin */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=ISRAEL and the NEW WORLD ORDER|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+&lt;!-- [[Category:Talmud concepts and terminology]]
+[[Category:Antisemitic canards]]
+ --&gt;</text>
+      <sha1>o9unu9ztx2o7yfejqjrsoz3v47c6ixi</sha1>
+    </revision>
+    <revision>
+      <id>607065037</id>
+      <parentid>607064697</parentid>
+      <timestamp>2014-05-04T19:43:36Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <comment>/* Origin */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+&lt;!-- [[Category:Talmud concepts and terminology]]
+[[Category:Antisemitic canards]]
+ --&gt;</text>
+      <sha1>8q3icxys1gq9c3m60mw7mvqzr22uiel</sha1>
+    </revision>
+    <revision>
+      <id>616919844</id>
+      <parentid>607065037</parentid>
+      <timestamp>2014-07-14T14:51:25Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <minor />
+      <comment>+[[Category:Antisemitic forgeries]]; +[[Category:Antisemitic canards]]; +[[Category:Fictional books]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+&lt;!-- [[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]
+ --&gt;</text>
+      <sha1>4u515c4y0x5qahwfevr1ipxksex7fne</sha1>
+    </revision>
+    <revision>
+      <id>645443958</id>
+      <parentid>616919844</parentid>
+      <timestamp>2015-02-03T12:12:41Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <minor />
+      <comment>Auric moved page [[User:Auric/Libbre David]] to [[Libbre David]]: ready</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+&lt;!-- [[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]
+ --&gt;</text>
+      <sha1>4u515c4y0x5qahwfevr1ipxksex7fne</sha1>
+    </revision>
+    <revision>
+      <id>645444002</id>
+      <parentid>645443958</parentid>
+      <timestamp>2015-02-03T12:13:18Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <minor />
+      <comment>/* External links */ unhide cats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+[[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]</text>
+      <sha1>lkapipbf79pi4rvk6ml642lh06pw38p</sha1>
+    </revision>
+    <revision>
+      <id>653021729</id>
+      <parentid>645444002</parentid>
+      <timestamp>2015-03-22T15:23:21Z</timestamp>
+      <contributor>
+        <username>Mx. Granger</username>
+        <id>4871659</id>
+      </contributor>
+      <comment>removing/replacing citations to Yahoo! Answers, which is not a [[WP:Reliable sources|reliable source]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+[[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]</text>
+      <sha1>0zon2dmgpdlmjfg7u1x8jvtw88uftii</sha1>
+    </revision>
+    <revision>
+      <id>653021968</id>
+      <parentid>653021729</parentid>
+      <timestamp>2015-03-22T15:25:36Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Mr. Granger|Mr. Granger]] ([[User talk:Mr. Granger|talk]]): Not intended nor used as a source, but as extra information. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+
+== External links ==
+* [https://ca.answers.yahoo.com/question/index?qid=20110110180346AAwTuA0]
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+[[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]</text>
+      <sha1>lkapipbf79pi4rvk6ml642lh06pw38p</sha1>
+    </revision>
+    <revision>
+      <id>653022435</id>
+      <parentid>653021968</parentid>
+      <timestamp>2015-03-22T15:29:42Z</timestamp>
+      <contributor>
+        <username>Mx. Granger</username>
+        <id>4871659</id>
+      </contributor>
+      <comment>Undid revision 653021968 by [[Special:Contributions/Auric|Auric]] ([[User talk:Auric|talk]]) - if we are pointing readers to an external source for extra information, we should ensure that it's a reliable source</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Userspace draft|source=ArticleWizard|date=May 2014|noob=no}} 
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+==References==
+{{Reflist}}
+
+&lt;!--- Categories ---&gt;
+[[Category:Articles created via the Article Wizard]]
+[[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]</text>
+      <sha1>0zon2dmgpdlmjfg7u1x8jvtw88uftii</sha1>
+    </revision>
+    <revision>
+      <id>653783525</id>
+      <parentid>653022435</parentid>
+      <timestamp>2015-03-27T18:20:43Z</timestamp>
+      <contributor>
+        <username>OccultZone</username>
+        <id>19583588</id>
+      </contributor>
+      <comment>reviewed article</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+
+==References==
+{{Reflist}}
+
+[[Category:Articles created via the Article Wizard]]
+[[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]</text>
+      <sha1>6aclmcj6ns9aqjph1gnb3opbsfkbar2</sha1>
+    </revision>
+    <revision>
+      <id>674703256</id>
+      <parentid>653783525</parentid>
+      <timestamp>2015-08-05T16:13:27Z</timestamp>
+      <contributor>
+        <username>Yserbius</username>
+        <id>717224</id>
+      </contributor>
+      <comment>[[WP:NB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{notability|August 2015}}
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+
+==References==
+{{Reflist}}
+
+[[Category:Articles created via the Article Wizard]]
+[[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]</text>
+      <sha1>jd7x82tt8qaguy8sebt1i6gp3xs0o36</sha1>
+    </revision>
+    <revision>
+      <id>674719566</id>
+      <parentid>674703256</parentid>
+      <timestamp>2015-08-05T18:13:47Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor />
+      <comment>Dating maintenance tags: {{Notability}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{notability|date=August 2015}}
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+
+==References==
+{{Reflist}}
+
+[[Category:Articles created via the Article Wizard]]
+[[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]</text>
+      <sha1>e5az2gsacyja5h054me62ciww1s7mt4</sha1>
+    </revision>
+    <revision>
+      <id>675614952</id>
+      <parentid>674719566</parentid>
+      <timestamp>2015-08-11T17:11:25Z</timestamp>
+      <contributor>
+        <username>Yserbius</username>
+        <id>717224</id>
+      </contributor>
+      <comment>Merger proposal</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{notability|date=August 2015}}
+{{mergeto|Talmud#Criticism|discuss=Talk:Libbre David#Merger proposal|date=August 2015}}
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt; It also is forbidden to lie about the Talmud.&lt;ref&gt;{{cite book|author=R. Yishayahu HaLevy Horowitz|title=Shnei Luchot Habrit|publisher=Masechet Shevuot|page=33b|location=Jerusalem|year=1975|language=he}}&lt;/ref&gt;
+
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+
+==References==
+{{Reflist}}
+
+[[Category:Articles created via the Article Wizard]]
+[[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]</text>
+      <sha1>s2fenmcbqr47681s9aqed8tlqmak1dk</sha1>
+    </revision>
+    <revision>
+      <id>679157456</id>
+      <parentid>675614952</parentid>
+      <timestamp>2015-09-02T20:05:58Z</timestamp>
+      <contributor>
+        <ip>216.239.164.8</ip>
+      </contributor>
+      <comment>it is inappropriate to indicate that it is wrong to lie. we all know it is wrong to lie.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{notability|date=August 2015}}
+{{mergeto|Talmud#Criticism|discuss=Talk:Libbre David#Merger proposal|date=August 2015}}
+{{Antisemitism}}
+'''Libbre David''' (also ''Livore David'') is a supposed book of the [[Talmud]] which contains discussions about interactions between Jews and Gentiles.
+
+==Libbre David 37==
+
+The most quoted passage is &quot;If a Jew be called upon to explain any part of the rabbinic books, he ought to give only a false explanation. Who ever will violate this order shall be put to death.&quot;
+
+Another quote is &quot;To communicate anything to a goy about our religious relations would be equal to the killing of all Jews, for if they knew what we teach about them they would kill us openly.&quot;
+
+==Factuality==
+No such book exists in the Talmud.&lt;ref&gt;{{cite book|last=Kominsky|first=Morris|authorlink=Morris Kominsky|title=The hoaxers: plain liars, fancy liars, and damned liars.|date=1970|publisher=Branden Press|location=Boston|isbn=08283-1288-5|lccn=76109134|pages=169-176|url=http://freemasonry.bcy.ca/anti-masonry/van_hyning.html|quote=Libbre David 37. This is a complete fabrication. No such book exists in the Talmud or in the entire Jewish literature.}}&lt;/ref&gt;
+==Origin==
+The title is assumed to be a corruption of ''Dibre David'', a work published in 1671.&lt;ref&gt;{{cite book|title=Israel and the New World Order|author=Andrew J. Hurley|publisher=Fithian Press|location=Foundation for a New World Order, Santa Barbara, |year=1991|isbn=9780931832994}}&lt;/ref&gt;
+
+The earliest publication of the quotes is in ''The Six Million Reconsidered'' (1979)&lt;ref&gt;The Six Million Reconsidered: A Special Report by the Committee for Truth in History, p. 16 [[Historical Review Press]], 1979&lt;/ref&gt;
+
+==See also==
+*[[Tract Mechilla]]
+
+==References==
+{{Reflist}}
+
+[[Category:Articles created via the Article Wizard]]
+[[Category:Antisemitic forgeries]]
+[[Category:Antisemitic canards]]
+[[Category:Fictional books]]
+[[Category:Talmud concepts and terminology]]</text>
+      <sha1>p4txqnush8w8ks7g122jkocj6fyit99</sha1>
+    </revision>
+    <revision>
+      <id>682724788</id>
+      <parentid>679157456</parentid>
+      <timestamp>2015-09-25T16:09:49Z</timestamp>
+      <contributor>
+        <username>Yserbius</username>
+        <id>717224</id>
+      </contributor>
+      <comment>Merged to [[Talmud#Criticism]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[NAME OF DESTINATIONPAGE]] {{R from merge}}</text>
+      <sha1>k0q2pt4ssn4nkai9ycaada0jji5bplw</sha1>
+    </revision>
+    <revision>
+      <id>682952438</id>
+      <parentid>682724788</parentid>
+      <timestamp>2015-09-27T04:07:22Z</timestamp>
+      <contributor>
+        <username>Yserbius</username>
+        <id>717224</id>
+      </contributor>
+      <comment>Stupid! Left out name of redirection page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Talmud#Criticism]] {{R from merge}}</text>
+      <sha1>qor2yyxh8i8p5drow3xp6hcr3g4o4am</sha1>
+    </revision>
+  </page>
+</mediawiki>

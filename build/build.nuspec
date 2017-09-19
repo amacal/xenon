@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <id>xenon</id>
+  <title>Xenon</title>
+  <version>1.0</version>
+  <authors>Adrian Macal</authors>
+  <owners>Adrian Macal</owners>
+  <summary>Fast and dynamic XML deserializer</summary>
+  <licenseUrl>https://raw.githubusercontent.com/amacal/xenon/master/LICENSE.txt</licenseUrl>
+  <projectUrl>https://github.com/amacal/xenon</projectUrl>
+  <iconUrl>https://raw.githubusercontent.com/amacal/xenon/master/icon.png</iconUrl>
+  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  <description>A library to fast deserialize xml format.</description>
+  <copyright>Copyright Adrian Macal 2017</copyright>
+  <tags>xml deserializer dynamic performance fast</tags>
+  @dependencies@
+  @references@
+  </metadata>
+  @files@
+</package>

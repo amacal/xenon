@@ -1,7 +1,6 @@
 *.user
 *.suo
 *.log
-*.xml
 *.tmp
 *.ncrunchproject
 *.ncrunchsolution
@@ -18,3 +17,4 @@ bin/
 build/*
 !build/build.fsx
 !build/build.nuspec
+TestResult.xml
