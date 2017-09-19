@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{39D7A543-4AB7-49CF-A437-14AED634EAB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xenon", "Xenon\Xenon.csproj", "{D0E4D946-3CBA-4ECC-A0D8-87A7A9D134D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xenon.Tests", "Xenon.Tests\Xenon.Tests.csproj", "{8A5DA861-0D8C-42F9-A558-47079DBFF7D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E4D946-3CBA-4ECC-A0D8-87A7A9D134D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E4D946-3CBA-4ECC-A0D8-87A7A9D134D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E4D946-3CBA-4ECC-A0D8-87A7A9D134D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E4D946-3CBA-4ECC-A0D8-87A7A9D134D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D7A543-4AB7-49CF-A437-14AED634EAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D7A543-4AB7-49CF-A437-14AED634EAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D7A543-4AB7-49CF-A437-14AED634EAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D7A543-4AB7-49CF-A437-14AED634EAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5DA861-0D8C-42F9-A558-47079DBFF7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5DA861-0D8C-42F9-A558-47079DBFF7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5DA861-0D8C-42F9-A558-47079DBFF7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5DA861-0D8C-42F9-A558-47079DBFF7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AF0DB8B-E714-472A-91E4-190990104C25}
+	EndGlobalSection
+EndGlobal
