@@ -6,7 +6,7 @@ namespace Benchmark.Groups
     {
         public void InvokeXenonStatic(TestInvoke context)
         {
-            context.BenchmarkXenon("just-seek", "static", reader =>
+            context.BenchmarkXenon("just-seek", "xenon-static", "revision", reader =>
             {
                 return reader.Process(document =>
                 {
@@ -16,7 +16,7 @@ namespace Benchmark.Groups
 
         public void InvokeXenonDynamic(TestInvoke context)
         {
-            context.BenchmarkXenon("just-seek", "dynamic", reader =>
+            context.BenchmarkXenon("just-seek", "xenon-dynamic", "revision", reader =>
             {
                 return reader.Process(document =>
                 {

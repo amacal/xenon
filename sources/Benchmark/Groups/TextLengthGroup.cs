@@ -10,7 +10,7 @@ namespace Benchmark.Groups
         {
             long length = 0;
 
-            context.BenchmarkXenon("text-length", "static", reader =>
+            context.BenchmarkXenon("text-length", "xenon-static", "revision", reader =>
             {
                 return reader.Process(document =>
                 {
@@ -23,7 +23,7 @@ namespace Benchmark.Groups
         {
             long length = 0;
 
-            context.BenchmarkXenon("text-length", "dynamic", reader =>
+            context.BenchmarkXenon("text-length", "xenon-dynamic", "revision", reader =>
             {
                 return reader.Process(document =>
                 {

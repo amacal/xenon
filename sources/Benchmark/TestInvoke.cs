@@ -10,45 +10,42 @@ namespace Benchmark
     public class TestInvoke
     {
         private readonly string path;
+        private readonly TestReporter reporter;
 
-        public TestInvoke(string path)
+        public TestInvoke(string path, TestReporter reporter)
         {
             this.path = path;
+            this.reporter = reporter;
         }
 
-        public void BenchmarkXenon(string scenario, string mode, Func<XenonReader, Task> callback)
+        public void BenchmarkXenon(string scenario, string mode, string node, Func<XenonReader, Task> callback)
         {
             Stopwatch watch = Stopwatch.StartNew();
-            double started = Process.GetCurrentProcess().TotalProcessorTime.TotalSeconds;
+            TimeSpan started = Process.GetCurrentProcess().TotalProcessorTime;
 
             using (FileStream stream = File.OpenRead(path))
             {
-                Console.WriteLine($"Benchmarking {scenario} using {mode}...");
                 XenonReader reader = new XenonReader(stream, "revision", 4 * 1024 * 1024);
 
+                reporter.Benchmarking(scenario, mode);
                 callback.Invoke(reader).Wait();
+                reporter.Completed(scenario, mode, watch.Elapsed, Process.GetCurrentProcess().TotalProcessorTime - started);
             }
-
-            Console.WriteLine($"Completed in {watch.Elapsed.TotalSeconds:F1} seconds.");
-            Console.WriteLine($"Completed using {(Process.GetCurrentProcess().TotalProcessorTime.TotalSeconds - started):F1} CPU seconds.");
-            Console.WriteLine();
         }
 
         public void BenchmarkReader(string scenario, Action<XmlTextReader> callback)
         {
             Stopwatch watch = Stopwatch.StartNew();
-            double started = Process.GetCurrentProcess().TotalProcessorTime.TotalSeconds;
+            TimeSpan started = Process.GetCurrentProcess().TotalProcessorTime;
 
             using (FileStream stream = File.OpenRead(path))
             using (XmlTextReader text = new XmlTextReader(stream))
             {
-                Console.WriteLine($"Benchmarking {scenario} using reader...");
+                reporter.Benchmarking(scenario, "xml-reader");
                 callback.Invoke(text);
             }
 
-            Console.WriteLine($"Completed in {watch.Elapsed.TotalSeconds:F1} seconds.");
-            Console.WriteLine($"Completed using {(Process.GetCurrentProcess().TotalProcessorTime.TotalSeconds - started):F1} CPU seconds.");
-            Console.WriteLine();
+            reporter.Completed(scenario, "xml-reader", watch.Elapsed, Process.GetCurrentProcess().TotalProcessorTime - started);
         }
     }
 }

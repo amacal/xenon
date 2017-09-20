@@ -12,7 +12,11 @@ namespace Benchmark
                 new TextLengthGroup()
             };
 
-            runner.Execute(new TestInvoke(args[0]));
+            TestReporter reporter = new TestReporter();
+            TestInvoke invoke = new TestInvoke(args[0], reporter);
+
+            runner.Execute(invoke);
+            reporter.Summarize();
         }
     }
 }
