@@ -21,9 +21,17 @@ namespace Benchmark
         {
             foreach (TestGroup group in groups)
             {
-                group.InvokeXenonStatic(context);
-                group.InvokeXenonDynamic(context);
-                group.InvokeXmlReader(context);
+                if (group.Support.HasFlag(TestSupport.Static))
+                    group.InvokeXenonStatic(context);
+
+                if (group.Support.HasFlag(TestSupport.Dynamic))
+                    group.InvokeXenonDynamic(context);
+
+                if (group.Support.HasFlag(TestSupport.Reader))
+                    group.InvokeXmlReader(context);
+
+                if (group.Support.HasFlag(TestSupport.Linq))
+                    group.InvokeXmlLinq(context);
             }
         }
 

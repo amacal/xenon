@@ -45,6 +45,7 @@
     <Compile Include="TestInvoke.cs" />
     <Compile Include="TestReporter.cs" />
     <Compile Include="TestRunner.cs" />
+    <Compile Include="TestSupport.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Xenon\Xenon.csproj">

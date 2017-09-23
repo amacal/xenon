@@ -18,7 +18,13 @@ namespace Benchmark
             Console.WriteLine($"Benchmarking {scenario} using {approach}...");
         }
 
-        public void Completed(string scenario, string approach, TimeSpan elapsed, TimeSpan consumed)
+        public void Complete(object value)
+        {
+            Console.WriteLine($"Completed with result {value}");
+            Console.WriteLine();
+        }
+
+        public void Complete(string scenario, string approach, TimeSpan elapsed, TimeSpan consumed)
         {
             data.Add(
                 new Item { Scenario = scenario, Approach = approach },
@@ -26,7 +32,6 @@ namespace Benchmark
 
             Console.WriteLine($"Completed in {elapsed.TotalSeconds:F1} seconds.");
             Console.WriteLine($"Completed using {consumed.TotalSeconds:F1} CPU seconds.");
-            Console.WriteLine();
         }
 
         public void Summarize()

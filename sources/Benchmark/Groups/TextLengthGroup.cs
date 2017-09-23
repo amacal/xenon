@@ -1,35 +1,37 @@
 ﻿using System.Threading;
 using System.Xml;
-using Xenon;
 
 namespace Benchmark.Groups
 {
     public class TextLengthGroup : TestGroup
     {
+        public TestSupport Support
+        {
+            get { return TestSupport.Static | TestSupport.Dynamic | TestSupport.Reader; }
+        }
+
         public void InvokeXenonStatic(TestInvoke context)
         {
             long length = 0;
 
-            context.BenchmarkXenon("text-length", "xenon-static", "revision", reader =>
+            context.BenchmarkStatic("text-length", "revision", document =>
             {
-                return reader.Process(document =>
-                {
-                    Interlocked.Add(ref length, document.Get("text").ToText().GetLength());
-                });
+                Interlocked.Add(ref length, document.Get("text").ToText().GetLength());
             });
+
+            context.Complete(length);
         }
 
         public void InvokeXenonDynamic(TestInvoke context)
         {
             long length = 0;
 
-            context.BenchmarkXenon("text-length", "xenon-dynamic", "revision", reader =>
+            context.BenchmarkDynamic("text-length", "revision", document =>
             {
-                return reader.Process(document =>
-                {
-                    Interlocked.Add(ref length, document.GetDynamic().text.ToText().GetLength());
-                });
+                Interlocked.Add(ref length, document.GetDynamic().text.ToText().GetLength());
             });
+
+            context.Complete(length);
         }
 
         public void InvokeXmlReader(TestInvoke context)
@@ -37,37 +39,33 @@ namespace Benchmark.Groups
             int length = 0;
             char[] buffer = new char[1024];
 
-            context.BenchmarkReader("text-length", reader =>
+            context.BenchmarkReader("text-length", "revision", reader =>
             {
                 while (reader.Read())
                 {
-                    if (reader.NodeType == XmlNodeType.Element && reader.Name == "revision")
+                    if (reader.NodeType == XmlNodeType.Element && reader.Name == "sha1")
                     {
-                        while (reader.Read())
+                        break;
+                    }
+
+                    if (reader.NodeType == XmlNodeType.Element && reader.Name == "text")
+                    {
+                        reader.MoveToContent();
+                        int read = 0;
+
+                        do
                         {
-                            if (reader.NodeType == XmlNodeType.Element && reader.Name == "sha1")
-                            {
-                                break;
-                            }
-
-                            if (reader.NodeType == XmlNodeType.Element && reader.Name == "text")
-                            {
-                                reader.MoveToContent();
-                                int read = 0;
-
-                                do
-                                {
-                                    read = reader.ReadChars(buffer, 0, buffer.Length);
-                                    length = length + read;
-                                } while (read > 0);
-                            }
-                        }
+                            read = reader.ReadChars(buffer, 0, buffer.Length);
+                            length = length + read;
+                        } while (read > 0);
                     }
                 }
             });
+
+            context.Complete(length);
         }
 
-        public void InvokeXmlDocument(TestInvoke context)
+        public void InvokeXmlLinq(TestInvoke context)
         {
             throw new System.NotImplementedException();
         }
