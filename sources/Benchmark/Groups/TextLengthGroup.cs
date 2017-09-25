@@ -36,29 +36,29 @@ namespace Benchmark.Groups
 
         public void InvokeXmlReader(TestInvoke context)
         {
-            int length = 0;
-            char[] buffer = new char[1024];
+            long length = 0;
+            char[] buffer = new char[4 * 1024 * 1024];
 
             context.BenchmarkReader("text-length", "revision", reader =>
             {
+                int depth = reader.Depth;
+
                 while (reader.Read())
                 {
-                    if (reader.NodeType == XmlNodeType.Element && reader.Name == "sha1")
-                    {
-                        break;
-                    }
-
                     if (reader.NodeType == XmlNodeType.Element && reader.Name == "text")
                     {
-                        reader.MoveToContent();
                         int read = 0;
 
                         do
                         {
                             read = reader.ReadChars(buffer, 0, buffer.Length);
                             length = length + read;
-                        } while (read > 0);
+                        }
+                        while (read > 0);
                     }
+
+                    if (depth == reader.Depth)
+                        return;
                 }
             });
 

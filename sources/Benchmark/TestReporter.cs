@@ -20,7 +20,7 @@ namespace Benchmark
 
         public void Complete(object value)
         {
-            Console.WriteLine($"Completed with result {value}");
+            Console.WriteLine($"Completed with result {value}.");
             Console.WriteLine();
         }
 
